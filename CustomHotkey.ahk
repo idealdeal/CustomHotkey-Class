@@ -50,7 +50,7 @@ return
     Hotkey_CustomHotkey3:
     Hotkey_CustomHotkey4:
     Hotkey_CustomHotkey5:
-        if(WinActive("Untitled - Notawdepad")) {
+        if(WinActive("ahk_exe notepad.exe")) {
             CustomHotkey.Send(A_ThisLabel)
         } else {
             tmp_key := ""
