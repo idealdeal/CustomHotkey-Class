@@ -14,4 +14,4 @@ Adding hotkeys requires the developer to do the following (few) things.
 2. Add more "CustomHotkey" labels. (Reference line 46 through 99)
 3. Update `static maxHotkeys := 5` in line 114 to the max. amount of hotkeys.
 
-The number of UI elements and CustomHotkey labels should equal `static maxHotkeys := 5`
+`static maxHotkeys` should equal the amount of UI elements and CustomHotkey labels.
