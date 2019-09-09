@@ -5,6 +5,10 @@ The whole **CustomHotkey.ahk** file is basically just an example script on how-t
 
 The UI and the class go hand in hand - meaning you cannot make use of this class by removing specific parts of the UI.
 
+# Purpose
+The purpose of this class is to enable the user to create "text binds" which he can use in a browser game for example.
+`User presses F1 -> his predefined text gets sent into the chat window`
+
 
 # Adding more hotkeys
 Adding hotkeys requires the developer to do the following (few) things.
