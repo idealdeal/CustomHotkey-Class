@@ -104,7 +104,6 @@ return
 
     ; Github: https://github.com/Aiden2368
     ; Github repository: https://github.com/Aiden2368/CustomHotkey-Class
-    ; Discord: Aiden#2368
 
     Class CustomHotkey {
         static hotkeysFile := "CustomHotkeys.txt"
