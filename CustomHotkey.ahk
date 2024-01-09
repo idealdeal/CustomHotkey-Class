@@ -100,11 +100,6 @@ return
 
 { ; Class CustomHotkey
 
-    ; CustomHotkey Class written by Aiden
-
-    ; Github: https://github.com/Aiden2368
-    ; Github repository: https://github.com/Aiden2368/CustomHotkey-Class
-
     Class CustomHotkey {
         static hotkeysFile := "CustomHotkeys.txt"
         static allHotkeys := {}
